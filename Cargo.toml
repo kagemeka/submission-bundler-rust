@@ -7,7 +7,7 @@ edition = "2021"
 
 documentation = "https://docs.rs/submission-bundler"
 readme = "README.md"
-description = "Bundle `use` and create a submission file for competitive programming."
+description = "Bundle use and create a submission file for competitive programming."
 homepage = "https://github.com/competitive-programming-helper/submission-bundler-rust"
 repository = "https://github.com/competitive-programming-helper/submission-bundler-rust"
 license = "MIT"
