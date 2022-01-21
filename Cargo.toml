@@ -1,5 +1,5 @@
 [package]
-name = "submission-bundler-rust"
+name = "submission-bundler"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,12 +7,12 @@ edition = "2021"
 
 documentation = "https://docs.rs/submission-bundler"
 readme = "README.md"
-description = "Bundle `use` and create a submission file for competitive programming."
+description = "Bundle use and create a submission file for competitive programming."
 homepage = "https://github.com/competitive-programming-helper/submission-bundler-rust"
 repository = "https://github.com/competitive-programming-helper/submission-bundler-rust"
 license = "MIT"
-keywords = ["competitive-programming", "submission", "bundle"]
-category = ["competitive-pgogramming"]
+keywords = ["compete", "submission", "bundle"]
+category = ["compete"]
 
 
 exclude = [
