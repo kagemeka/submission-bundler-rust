@@ -1,0 +1,14 @@
+version: '3.9'
+
+
+services:
+  package_dev:
+    image: rust:latest
+    tty: true
+    volumes:
+      - type: bind
+        source: $ROOT
+        target: /root/$PROJECT
+        read_only: false
+        volume:
+          nocopy: true
